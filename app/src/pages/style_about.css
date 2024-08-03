@@ -1,0 +1,41 @@
+.thumbnail-big:hover{
+    opacity: 0.4;
+    transition: transform 0.7s;
+    transform: rotateY(180deg);
+}
+
+.thumbnail-small:hover{
+    opacity: 0.4;
+}
+
+.thumbnail-big{
+    border-radius: 40px;
+}
+
+.thumbnail-small{
+    border-radius: 100%;
+}
+
+.about-part{
+    color: #27374D;
+}
+
+.btn-warning:hover{
+    background-color: rgb(158, 158, 56);
+    border-color: darkkhaki;
+    color: white;
+}
+
+.btn{
+    border-color:  #27374D;
+    background-color: #27374D;
+}
+
+.btn-back:hover{
+    color: #27374D;
+    border-color: transparent;
+}
+
+container-fluid{
+    color: #27374D;;
+}
